@@ -1,4 +1,4 @@
-# ![Kovon Logo](https://www.kovon.io/_next/image?url=%2Fassets%2Fwhitecolorlogo.png&w=128&q=75)
+# ![Kovon Logo](assets/logo.png)
 
 # Kovon Mobile UI Replica - Hiring Assignment
 
@@ -25,20 +25,14 @@ A pixel-accurate mobile UI replica of the [Kovon.io](https://www.kovon.io) homep
 
 ## 📸 Screenshots
 
-### Home Screen
-![Home](Screenshots/img.png)
+ | Home Screen | Featured Jobs | Our Services |
+ | :---: | :---: | :---: |
+ | ![Home Screen](./Screenshots/img.png) | ![Featured Jobs](./Screenshots/img_2.png) | ![Our Services](./Screenshots/img_3.png) |
 
-### Featured Jobs
-![Jobs](Screenshots/img_2.png)
+ | How It Works | Dashboard |
+ | :---: | :---: |
+ | ![How It Works](./Screenshots/img_4.png) | ![Dashboard](./Screenshots/img_6.png) |
 
-### Our Services
-![Services](Screenshots/img_3.png)
-
-### How It Works
-![Steps](Screenshots/img_4.png)
-
-### Dashboard
-![Dashboard](Screenshots/img_6.png)
 
 ## 🛠 Tech Stack & Requirements
 
