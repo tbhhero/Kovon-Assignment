@@ -1,4 +1,4 @@
-# ![Kovon Logo](assets/logo.png)
+# <img src="assets/logo.png" alt="kovon" width="300" height="200">
 
 # Kovon Mobile UI Replica - Hiring Assignment
 
